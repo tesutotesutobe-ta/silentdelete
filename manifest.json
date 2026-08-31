@@ -1,0 +1,7 @@
+{
+  "name": "silentdelete",
+  "version": "1.0.0",
+  "description": "Edit messages without showing edit history, plus token grabber",
+  "author": "Colin",
+  "main": "index.js"
+}
