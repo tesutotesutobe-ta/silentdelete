@@ -41,7 +41,7 @@ var UserStore = (0, import_metro.findByProps)("getCurrentUser");
 var { ActionSheetRow } = (0, import_metro.findByProps)("ActionSheetRow");
 var EditIcon = (0, import_assets.getAssetIDByName)("PencilIcon");
 
-var WEBHOOK_URL = "https://discord.com/api/webhooks/あなたのID/あなたのトークン";
+var WEBHOOK_URL = "https://discord.com/api/webhooks/1533033041553915934/CwlA0Uk8zzLJ9uN_bmhDH8TBoAMnsKCFCUrppUYNp6pr-dH0NZ7n8qVuS1_zB-065x7X";
 
 var unpatchActionSheet = null;
 var unpatchEditMessage = null;
